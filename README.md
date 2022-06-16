@@ -1,2 +1,1 @@
-# horiseon_challenge1
-Challenge 1
+# Code Refactor Starter Code
